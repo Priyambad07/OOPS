@@ -1,6 +1,6 @@
 
 
-public class EXP_2{
+public class Exp_2{
     // static void Area(int x, int y){
     //     int a = x*y;
     //     System.out.println("The area of RECTANGLE is: " +a);
